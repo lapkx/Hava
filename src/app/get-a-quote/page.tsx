@@ -30,7 +30,7 @@ export default function GetAQuotePage() {
         </div>
 
         <div>
-          <h2 className="text-2xl font-semibold text-gray-800 mb-2">For AAKASHCAM</h2>
+          <h2 className="text-2xl font-semibold text-gray-800 mb-2">For AAKASHCAM (Coming Soon)</h2>
           <p>Please include the following:</p>
           <ul className="list-disc list-inside mt-2 space-y-1">
             <li>Product name (AAKASHCAM)</li>
