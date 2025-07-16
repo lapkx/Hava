@@ -74,7 +74,7 @@ export default function ProductsPage() {
               href="/get-a-quote"
               className="inline-block bg-gray-700 hover:bg-gray-800 text-white px-6 py-2 rounded-full transition"
             >
-              Get a Quote
+              Coming Soon
             </Link>
           </div>
         </div>
